@@ -1,5 +1,5 @@
-# A187 ID
-BOT WHATSAPP HP Aris187 ID
+# PUTO BOT
+BOT WHATSAPP
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
