@@ -17,7 +17,7 @@ const instagramlu = 'https://instagram.com/_sadboy.ig'; // Nama Instagramlu cok
 const whatsapplu = 'wa.me/+6285712632324'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung Jaringan'; // Kapan bot lu aktif
 const grupch1 = 'https://bit.ly/PutoGrup'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // OFFICIAL GRUP LU 2
+const grupch2 = 'COMING SOON'; // OFFICIAL GRUP LU 2
 //
 const
 {
